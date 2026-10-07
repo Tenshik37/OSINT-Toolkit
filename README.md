@@ -46,12 +46,6 @@ pip install pillow
 git clone <URL-репозитория>
 cd <каталог-проекта>
 
-python -m pip install -r requirements.txt
-```
-
-Если `requirements.txt` ещё нет:
-
-```bash
 python -m pip install flet requests pillow
 ```
 
